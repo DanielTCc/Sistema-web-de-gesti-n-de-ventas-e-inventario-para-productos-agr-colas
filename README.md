@@ -7,8 +7,9 @@
 <!-- Badges -->
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)](#estado-del-proyecto)
 [![Licencia](https://img.shields.io/badge/licencia-MIT-green)](#licencia)
-[![Lenguaje](https://img.shields.io/badge/lenguaje-C%2B%2B-blue)](#tecnologías-utilizadas)
-
+[![Lenguaje](https://img.shields.io/badge/lenguaje-Python-blue)](#tecnologías-utilizadas)
+[![Framework](https://img.shields.io/badge/framework-Flask-lightgrey)](#tecnologías-utilizadas)
+[![Base%20de%20datos](https://img.shields.io/badge/base%20de%20datos-MySQL-orange)](#tecnologías-utilizadas)
 ---
 
 ## Índice
@@ -74,7 +75,7 @@ Lista de personas que han contribuido al proyecto:
 
 ## Personas Desarrolladoras del Proyecto
 
-- Daniel Kraken
+- Daniel Tijerino
 
 ---
 
