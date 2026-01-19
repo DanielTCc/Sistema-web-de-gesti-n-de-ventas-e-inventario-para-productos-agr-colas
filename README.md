@@ -1,8 +1,8 @@
 # Título del Proyecto
 
-![Imagen de portada](<p align="center">
+<p align="center">
   <img width="518" height="481" alt="logo-removebg" src="https://github.com/user-attachments/assets/156f5246-ce36-45de-a71c-86fc6c4df5c0" />
-</p>)
+</p>
 
 <!-- Badges -->
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)](#estado-del-proyecto)
